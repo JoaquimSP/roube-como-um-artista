@@ -57,12 +57,13 @@ section {
     padding-bottom: 10vh;
     line-height: 2em;
     padding-left: 30px;
+    padding-right: 30px;
     font-family: var(--fonte2);
-    font-size: 1.5vw;
+    font-size: 1.5em;
 }
 
 section > h1 {
-    font-size: 2vw;
+    font-size: 2em;
     font-style: italic;
     padding-bottom: 10px;
     padding-top: 10px;
