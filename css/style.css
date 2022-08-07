@@ -36,7 +36,7 @@ header > h1 {
 
 header > p {
     padding-bottom: 30px;
-    font-size: 1.5vw;
+    font-size: 1.5em;
 }
 
 header a, footer a{
@@ -61,6 +61,16 @@ section {
     font-family: var(--fonte2);
     font-size: 1.5em;
 }
+
+section.chapter_one{}
+section.chapter_two{}
+section.chapter_three{}
+section.chapter_four{}
+section.chapter_five{}
+section.chapter_six{}
+section.chapter_seven{}
+section.chapter_eight{}
+section.chapter_nine{}
 
 section > h1 {
     font-size: 2em;
@@ -94,6 +104,10 @@ img {
     width: 100%;
     display: block;
     margin: auto;
+}
+
+section > picture {
+    padding: 10px;
 }
 
 /* --- Footer --- */
